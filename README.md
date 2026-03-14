@@ -43,8 +43,10 @@ Data Analyst focused on transforming data into actionable insights that support 
 
 ### RetailRocket E-Commerce Customer Behavior Analysis
 Analyzed an e-commerce dataset to understand customer behavior throughout the purchasing journey and identify opportunities to improve conversion rates.
+![Conversion Funnel Chart](https://github.com/cianaellington-data/retail-rocket-ecommerce-analysis/raw/main/visualizations/conversion_funnel_chart.png)
 
-![Customer Behavior Conversion Funnel](visualizations/conversion_funnel_chart.png)
+Customer behavior analysis highlighting conversion drop-offs and insights for improving purchase rates.
+
 
 **Key Focus Areas**
 - Customer engagement patterns
