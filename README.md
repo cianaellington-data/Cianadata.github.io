@@ -5,6 +5,7 @@
 ---
 
 🎯 Core Focus Areas
+
 • 🛍️ E-commerce & customer behavior analysis  
 • 📈 KPI tracking & business reporting  
 • 💰 Financial & market trend analysis  
@@ -29,8 +30,8 @@
     Built analysis to understand purchasing patterns and identify revenue-driving product categories.
   </p>
 
-  <img src="visualizations/conversion_funnel_chart.png"
-       width="100%" style="border-radius:8px; margin-top:10px;">
+  <img src="https://raw.githubusercontent.com/cianaellington-data/retail-rocket-ecommerce-analysis/main/visualizations/conversion_funnel_chart.png"
+width="100%" style="border-radius:8px; margin-top:10px;">
 
   <p><strong>Tools:</strong> R</p>
 
