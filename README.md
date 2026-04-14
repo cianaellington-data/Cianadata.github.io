@@ -37,11 +37,4 @@
 
 🔗 GitHub: https://github.com/cianaellington-data/S-P-500-Stock-Analysis
 
-
-🏠 BigQuery Homelessness Analysis (SQL | Tableau)
-
-📊 Queried large-scale public datasets using BigQuery to analyze homelessness trends across U.S. regions  
-📍 Built Tableau dashboards to visualize geographic disparities in unsheltered populations  
-💡 Identified regional patterns to support policy and resource planning  
-
-🔗 GitHub: https://github.com/cianaellington-data/Y
+<
