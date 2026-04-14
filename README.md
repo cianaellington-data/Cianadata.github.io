@@ -37,14 +37,11 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified key customer behavior trends across 2.7M+ e-commerce events using R, highlighting funnel drop-off points and revenue drivers.
-     
     📍Analyzed full-funnel activity to uncover conversion drop-offs and revenue-driving behaviors that inform customer engagement strategy.
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/retail-rocket-ecommerce-analysis/main/visualizations/conversion_funnel_chart.png"
        width="100%" style="border-radius:8px; margin-top:10px;">
-
-  <p><strong>Tools:</strong> R</p>
 
   <a href="https://github.com/cianaellington-data/retail-rocket-ecommerce-analysis">
     View Project →
@@ -66,8 +63,6 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
   <img src="https://raw.githubusercontent.com/cianaellington-data/S-P-500-Stock-Analysis/main/dashboard/trading_volume_chart.png"
        width="100%" style="border-radius:8px; margin-top:10px;">
 
-  <p><strong>Tools:</strong> SQL | Tableau</p>
-
   <a href="https://github.com/cianaellington-data/S-P-500-Stock-Analysis">
     View Project →
   </a>
@@ -82,13 +77,11 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified geographic disparities in U.S. homelessness patterns using BigQuery and visualized regional trends in Tableau.
-        📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
+    📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/homelessness-analysis/main/low_unsheltered_locations_2018.png"
        width="100%" style="border-radius:8px; margin-top:10px;">
-
-  <p><strong>Tools:</strong> SQL | BigQuery | Tableau</p>
 
   <a href="https://github.com/cianaellington-data/homelessness-analysis">
     View Project →
