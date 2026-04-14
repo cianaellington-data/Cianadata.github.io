@@ -23,7 +23,7 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 <h2>🧠 Technical Skills</h2>
 
 <p>
-💻 SQL (BigQuery) | 📊 R | 📈 Tableau | 📑 Excel  
+  💻 SQL (BigQuery) | 📊 R | 📈 Tableau | 📑 Excel  
 🔍 Data Cleaning | 📉 Data Analysis | 📊 Dashboard Design | 📣 Data Storytelling | 📊 Business Intelligence | 📊 KPI Reporting
 </p>
 
