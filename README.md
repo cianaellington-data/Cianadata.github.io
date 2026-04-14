@@ -18,8 +18,6 @@
 
 ---
 
-🚀 Featured Projects
-
 🛍️<h2>📊 Featured Projects</h2>
 
 <div class="project-card">
