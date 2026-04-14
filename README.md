@@ -77,7 +77,7 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified geographic disparities in U.S. homelessness patterns using BigQuery and visualized regional trends in Tableau.
-    📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
+   📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/homelessness-analysis/main/low_unsheltered_locations_2018.png"
