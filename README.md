@@ -29,7 +29,6 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
 <h2>📊 Featured Projects</h2>
 
----
 
 <div class="project-card">
 
