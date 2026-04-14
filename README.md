@@ -1,3 +1,14 @@
+Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ records) to support business decision-making in e-commerce, government, and financial environments.
+
+I specialize in translating complex datasets into clear business insights using SQL, R, Python, and Tableau.
+
+Core strengths include:
+• Customer behavior and funnel analysis  
+• KPI tracking and dashboard development  
+• Identifying trends that drive business decisions  
+• Data storytelling for stakeholders and non-technical teams  
+
+
 📊 Featured Projects
 
 Retail Rocket E-Commerce Analysis (SQL | R |)
