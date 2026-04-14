@@ -37,6 +37,8 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified key customer behavior trends across 2.7M+ e-commerce events using R, highlighting funnel drop-off points and revenue drivers.
+     
+    📍Analyzed full-funnel activity to uncover conversion drop-offs and revenue-driving behaviors that inform customer engagement strategy.
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/retail-rocket-ecommerce-analysis/main/visualizations/conversion_funnel_chart.png"
@@ -58,6 +60,7 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Quantified market behavior trends and volatility patterns in S&P 500 data using SQL and visualized insights through Tableau dashboards.
+    📍 Built visual dashboards to analyze trading volume and price movements, revealing insights into market stability and financial behavior over time.
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/S-P-500-Stock-Analysis/main/dashboard/trading_volume_chart.png"
@@ -79,6 +82,7 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified geographic disparities in U.S. homelessness patterns using BigQuery and visualized regional trends in Tableau.
+        📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
   </p>
 
   <img src="https://raw.githubusercontent.com/cianaellington-data/homelessness-analysis/main/low_unsheltered_locations_2018.png"
