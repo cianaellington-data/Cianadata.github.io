@@ -10,10 +10,10 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 <h2>🎯 Core Focus Areas</h2>
 
 <p>
-• 🛍️ E-commerce & customer behavior analysis<br>
-• 📈 KPI tracking & business reporting<br>
-• 💰 Financial & market trend analysis<br>
-• 📊 Data visualization & dashboard development (Tableau)
+• 🛍️ E-commerce customer behavior & conversion analysis<br>
+• 📈 KPI tracking, reporting, and business performance insights<br>
+• 💰 Financial market trend and volatility analysis<br>
+• 📊 Dashboard development and data visualization (Tableau)
 </p>
 
 ---
@@ -77,6 +77,7 @@ Data Analyst with 3+ years of experience analyzing large-scale datasets (2.7M+ r
 
   <p>
     📊 Identified geographic disparities in U.S. homelessness patterns using BigQuery and visualized regional trends in Tableau.
+    
     📍 Identified geographic disparities in U.S. homelessness using BigQuery.  
   </p>
 
