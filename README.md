@@ -40,6 +40,7 @@ Analyzed 2.7M+ e-commerce events using R to understand customer behavior across 
 • Identified drop-off points in the customer journey  
 • Analyzed purchasing behavior and conversion patterns  
 • Highlighted revenue-driving product categories for business decision-making  
+
 📍 Business Value: Improves conversion rates by identifying where users drop off
 
   </p>
