@@ -1,106 +1,40 @@
-# Ciana Ellington
+# Ciana Ellington – Data Analytics Portfolio
 
-Data Analyst focused on transforming data into actionable insights that support strategic business decisions. Experienced in analyzing real-world datasets, identifying trends, and communicating findings through data visualization and analytical storytelling.
-
----
-
-## Core Skills
-
-### Data Analysis
-- SQL
-- R
-- Exploratory Data Analysis
-- Data Cleaning & Transformation
-- Tableau
-
-### Data Visualization
-- Tableau
-- Dashboard Development
-- Data Storytelling
-
-### Business Analytics
-- Customer Behavior Analysis
-- Sales & Performance Analysis
-- Trend Identification
-- Insight Generation for Decision-Making
+Certified Google Data Analyst with 3+ years of experience analyzing large datasets (up to 2.7M+ records) in education and government environments. Skilled in SQL (BigQuery), R, Tableau, and Excel with a focus on data cleaning, dashboard development, and KPI tracking.
 
 ---
 
-## Tools & Technologies
-
-- SQL
-- R
-- Tableau
-- Excel
-- GitHub
-- Data Visualization
-- Exploratory Data Analysis
-- Data Cleaning
+## 🧰 Technical Skills
+SQL (BigQuery) | R | Tableau | Power BI | Excel | Google Sheets
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 
-### RetailRocket E-Commerce Customer Behavior Analysis
-Analyzed an e-commerce dataset to understand customer behavior throughout the purchasing journey and identify opportunities to improve conversion rates.
-![Conversion Funnel Chart](https://github.com/cianaellington-data/retail-rocket-ecommerce-analysis/raw/main/visualizations/conversion_funnel_chart.png)
+### Retail Rocket E-Commerce Analysis (SQL | R | Tableau)
+- Analyzed 2.7M+ e-commerce events using R to identify purchasing behavior trends
+- Built funnel analysis dashboards to identify customer drop-off points
+- Identified top revenue-driving product categories to support business decision-making
 
-Customer behavior analysis highlighting conversion drop-offs and insights for improving purchase rates.
-
-
-**Key Focus Areas**
-- Customer engagement patterns
-- Conversion funnel analysis
-- Purchase behavior trends
-
-Repository  
-https://github.com/cianaellington-data/retail-rocket-ecommerce-analysis
+🔗 Repository / Dashboard Link: (add link here)
 
 ---
 
-### S&P 500 Stock Performance Analysis
-Explored historical financial data to analyze stock performance and trading patterns within the S&P 500 using SQL and data visualization tools.
+### BigQuery Homelessness Analysis (SQL | Tableau)
+- Queried federal datasets using BigQuery to analyze regional homelessness trends
+- Built Tableau dashboards visualizing geographic disparities in unsheltered populations
+- Identified regional trends to support resource allocation and reporting decisions
 
-**Key Focus Areas**
-- Market trend analysis
-- Stock performance comparisons
-- Financial data exploration
-
-Repository  
-https://github.com/cianaellington-data/S-P-500-Stock-Analysis
+🔗 Repository / Dashboard Link: (add link here)
 
 ---
 
-### U.S. Homelessness Data Analysis
-Analyzed homelessness data to explore trends and patterns affecting housing instability across the United States.
-
-**Key Focus Areas**
-- Social and economic data analysis
-- Trend identification
-- Data-driven insight generation
-
-Repository  
-https://github.com/cianaellington-data/homelessness-analysis
+## 📁 Additional Projects
+- (Add more SQL / Tableau / R projects here)
 
 ---
 
-## Portfolio
-
-View additional dashboards and analytics projects:
-
-https://sites.google.com/view/cianaellington
-
----
-
-## Professional Profile
-
-LinkedIn  
-https://www.linkedin.com/in/cianaellington-dataanalytics
-
----
-
-## Currently Working On
-
-- Expanding my data analytics portfolio with business-focused projects  
-- Building interactive dashboards and data visualizations  
-- Continuing to strengthen SQL and data analysis skills
+## 📫 Contact
+LinkedIn: (add link)  
+Portfolio: (GitHub Pages link once created)  
+GitHub: https://github.com/cianaellington-data
