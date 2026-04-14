@@ -50,8 +50,8 @@
     Built Tableau dashboards to visualize trading volume and price movement behavior over time.
   </p>
 
-  <img src="dashboard/trading_volume_chart.png"
-       width="100%" style="border-radius:8px; margin-top:10px;">
+  <img src="https://raw.githubusercontent.com/cianaellington-data/S-P-500-Stock-Analysis/main/dashboard/trading_volume_chart.png"
+width="100%" style="border-radius:8px; margin-top:10px;">
 
   <p><strong>Tools:</strong> SQL | Tableau</p>
 
